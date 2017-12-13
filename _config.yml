@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: The Trials and Triumphs of Learning to Code
 header-img: img/home-bg.png
 email: efl7a@yahoo.de
 copyright_name: efl7a
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Beginners Experience
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  efl7a
